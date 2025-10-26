@@ -1,10 +1,15 @@
 h1 {
     color: #869D7A;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    color: #91785D;
+    text-align: center;
 }
 .word {
     color: #695069;
