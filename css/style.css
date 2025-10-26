@@ -1,8 +1,10 @@
 h1 {
     color: #869D7A;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 body {
     background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .word {
     color: #695069;
